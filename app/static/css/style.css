@@ -1,0 +1,36 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+}
+.happy{
+  color: hotpink;
+  background-color: lightyellow;
+  font-size: 50px;
+}
+.sad {
+  color: darkslateblue;
+  background-color: lightgrey;
+  font-size: 20px;
+}
+.large {
+  font-size : 60px;
+}
+.box {
+  display: inline-block;
+  background-color: gold;
+  padding: 10px;
+  margin: 40px;
+  border: 1px solid darkslateblue;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  font-size: 30px;
+}
+.even{
+  background-color: lightblue;
+  border-radius: 0;
+}
+.odd{
+  background-color: salmon;
+}
